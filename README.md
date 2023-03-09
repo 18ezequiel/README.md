@@ -21,3 +21,7 @@ Soy un Ingeniero de Datos apasionado por las tecnologías Big Data y la implemen
 ## Destacados
 - [Proyecto4](https://github.com/marybet/Proyecto-Grupal-Data-Science)
 - Conocimientos avanzados en la implementación de tecnologías Big Data y en la creación de soluciones para problemas complejos.
+
+Si quieres colaborar en alguno de mis proyectos o simplemente conversar sobre la Ingeniería de datos, no dudes en contactarme. Puedes encontrarme en https://www.linkedin.com/in/ezequiel-lauxmann-b2b757236/ o mi mail lauxmann70@gmail.com.
+
+¡Gracias por ver mi perfil, saludos!
