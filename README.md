@@ -19,5 +19,5 @@ Soy un Ingeniero de Datos apasionado por las tecnologías Big Data y la implemen
 - [Proyecto4](https://github.com/marybet/Proyecto-Grupal-Data-Science) - Proyecto final, me encargue de la estructura en la nube de AWS, la ingesta de datos de la API, y los proces de ETL.
 
 ## Destacados
-- Entre los tres mejores proyectos finales de la Academia Henry con un proyecto donde montamos una API que se abastecia de data de Nueva York para recomendar sitios a visitar segun la localizacion del usuario y los gustos.
+- [Proyecto4](https://github.com/marybet/Proyecto-Grupal-Data-Science)
 - Conocimientos avanzados en la implementación de tecnologías Big Data y en la creación de soluciones para problemas complejos.
